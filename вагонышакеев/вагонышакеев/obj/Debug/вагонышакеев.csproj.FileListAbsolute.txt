@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\bin\Debug\вагонышакеев.exe.config
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\bin\Debug\вагонышакеев.exe
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\bin\Debug\вагонышакеев.pdb
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\obj\Debug\вагонышакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\obj\Debug\вагонышакеев.Form1.resources
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\obj\Debug\вагонышакеев.Properties.Resources.resources
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\obj\Debug\вагонышакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\obj\Debug\вагонышакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\obj\Debug\вагонышакеев.exe
+C:\Users\student\source\repos\вагонышакеев\вагонышакеев\obj\Debug\вагонышакеев.pdb
