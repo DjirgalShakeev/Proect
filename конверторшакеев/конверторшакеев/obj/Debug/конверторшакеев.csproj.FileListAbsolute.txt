@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\bin\Debug\конверторшакеев.exe.config
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\bin\Debug\конверторшакеев.exe
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\bin\Debug\конверторшакеев.pdb
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\obj\Debug\конверторшакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\obj\Debug\конверторшакеев.Form1.resources
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\obj\Debug\конверторшакеев.Properties.Resources.resources
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\obj\Debug\конверторшакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\obj\Debug\конверторшакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\obj\Debug\конверторшакеев.exe
+C:\Users\student\source\repos\конверторшакеев\конверторшакеев\obj\Debug\конверторшакеев.pdb
