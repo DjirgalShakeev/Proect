@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\доходшакеев\доходшакеев\bin\Debug\доходшакеев.exe.config
+C:\Users\student\source\repos\доходшакеев\доходшакеев\bin\Debug\доходшакеев.exe
+C:\Users\student\source\repos\доходшакеев\доходшакеев\bin\Debug\доходшакеев.pdb
+C:\Users\student\source\repos\доходшакеев\доходшакеев\obj\Debug\доходшакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\доходшакеев\доходшакеев\obj\Debug\доходшакеев.Form1.resources
+C:\Users\student\source\repos\доходшакеев\доходшакеев\obj\Debug\доходшакеев.Properties.Resources.resources
+C:\Users\student\source\repos\доходшакеев\доходшакеев\obj\Debug\доходшакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\доходшакеев\доходшакеев\obj\Debug\доходшакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\доходшакеев\доходшакеев\obj\Debug\доходшакеев.exe
+C:\Users\student\source\repos\доходшакеев\доходшакеев\obj\Debug\доходшакеев.pdb
