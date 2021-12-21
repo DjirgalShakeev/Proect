@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\bin\Debug\покупкашакеев.exe.config
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\bin\Debug\покупкашакеев.exe
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\bin\Debug\покупкашакеев.pdb
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\obj\Debug\покупкашакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\obj\Debug\покупкашакеев.Form1.resources
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\obj\Debug\покупкашакеев.Properties.Resources.resources
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\obj\Debug\покупкашакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\obj\Debug\покупкашакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\obj\Debug\покупкашакеев.exe
+C:\Users\student\source\repos\покупкашакеев\покупкашакеев\obj\Debug\покупкашакеев.pdb
