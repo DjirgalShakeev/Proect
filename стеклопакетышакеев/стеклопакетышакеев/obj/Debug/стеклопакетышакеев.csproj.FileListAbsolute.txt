@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\bin\Debug\стеклопакетышакеев.exe.config
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\bin\Debug\стеклопакетышакеев.exe
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\bin\Debug\стеклопакетышакеев.pdb
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\obj\Debug\стеклопакетышакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\obj\Debug\стеклопакетышакеев.Form1.resources
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\obj\Debug\стеклопакетышакеев.Properties.Resources.resources
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\obj\Debug\стеклопакетышакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\obj\Debug\стеклопакетышакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\obj\Debug\стеклопакетышакеев.exe
+C:\Users\student\source\repos\стеклопакетышакеев\стеклопакетышакеев\obj\Debug\стеклопакетышакеев.pdb
