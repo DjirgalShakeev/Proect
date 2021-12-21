@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\арендашакеев\арендашакеев\bin\Debug\арендашакеев.exe.config
+C:\Users\student\source\repos\арендашакеев\арендашакеев\bin\Debug\арендашакеев.exe
+C:\Users\student\source\repos\арендашакеев\арендашакеев\bin\Debug\арендашакеев.pdb
+C:\Users\student\source\repos\арендашакеев\арендашакеев\obj\Debug\арендашакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\арендашакеев\арендашакеев\obj\Debug\арендашакеев.Form1.resources
+C:\Users\student\source\repos\арендашакеев\арендашакеев\obj\Debug\арендашакеев.Properties.Resources.resources
+C:\Users\student\source\repos\арендашакеев\арендашакеев\obj\Debug\арендашакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\арендашакеев\арендашакеев\obj\Debug\арендашакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\арендашакеев\арендашакеев\obj\Debug\арендашакеев.exe
+C:\Users\student\source\repos\арендашакеев\арендашакеев\obj\Debug\арендашакеев.pdb
