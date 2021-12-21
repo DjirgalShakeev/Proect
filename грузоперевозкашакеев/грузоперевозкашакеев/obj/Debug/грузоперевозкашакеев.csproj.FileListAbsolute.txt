@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\bin\Debug\грузоперевозкашакеев.exe.config
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\bin\Debug\грузоперевозкашакеев.exe
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\bin\Debug\грузоперевозкашакеев.pdb
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\obj\Debug\грузоперевозкашакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\obj\Debug\грузоперевозкашакеев.Form1.resources
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\obj\Debug\грузоперевозкашакеев.Properties.Resources.resources
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\obj\Debug\грузоперевозкашакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\obj\Debug\грузоперевозкашакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\obj\Debug\грузоперевозкашакеев.exe
+C:\Users\student\source\repos\грузоперевозкашакеев\грузоперевозкашакеев\obj\Debug\грузоперевозкашакеев.pdb
