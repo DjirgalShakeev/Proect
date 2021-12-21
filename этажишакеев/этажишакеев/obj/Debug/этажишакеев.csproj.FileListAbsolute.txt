@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\этажишакеев\этажишакеев\bin\Debug\этажишакеев.exe.config
+C:\Users\student\source\repos\этажишакеев\этажишакеев\bin\Debug\этажишакеев.exe
+C:\Users\student\source\repos\этажишакеев\этажишакеев\bin\Debug\этажишакеев.pdb
+C:\Users\student\source\repos\этажишакеев\этажишакеев\obj\Debug\этажишакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\этажишакеев\этажишакеев\obj\Debug\этажишакеев.Form1.resources
+C:\Users\student\source\repos\этажишакеев\этажишакеев\obj\Debug\этажишакеев.Properties.Resources.resources
+C:\Users\student\source\repos\этажишакеев\этажишакеев\obj\Debug\этажишакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\этажишакеев\этажишакеев\obj\Debug\этажишакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\этажишакеев\этажишакеев\obj\Debug\этажишакеев.exe
+C:\Users\student\source\repos\этажишакеев\этажишакеев\obj\Debug\этажишакеев.pdb
