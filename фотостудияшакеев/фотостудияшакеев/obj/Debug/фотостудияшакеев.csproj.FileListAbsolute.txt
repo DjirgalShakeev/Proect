@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\bin\Debug\фотостудияшакеев.exe.config
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\bin\Debug\фотостудияшакеев.exe
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\bin\Debug\фотостудияшакеев.pdb
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\obj\Debug\фотостудияшакеев.csprojAssemblyReference.cache
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\obj\Debug\фотостудияшакеев.Form1.resources
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\obj\Debug\фотостудияшакеев.Properties.Resources.resources
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\obj\Debug\фотостудияшакеев.csproj.GenerateResource.cache
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\obj\Debug\фотостудияшакеев.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\obj\Debug\фотостудияшакеев.exe
+C:\Users\student\source\repos\фотостудияшакеев\фотостудияшакеев\obj\Debug\фотостудияшакеев.pdb
